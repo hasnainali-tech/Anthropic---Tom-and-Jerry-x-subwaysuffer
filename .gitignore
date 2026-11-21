@@ -1,0 +1,47 @@
+# ---- Unity generated (rebuilt automatically when the project is opened)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ---- IDE / OS
+.vs/
+.vscode/
+.idea/
+.utmp/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+Thumbs.db
+.DS_Store
+
+# ---- build outputs (the APK is shared separately)
+*.apk
+*.aab
+*.unitypackage.tmp
+crashlytics-build.properties
+
+# ---- auto-generated / not part of the game
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/Assets/Resources/PerformanceTestRun*.json
+/Assets/Resources/PerformanceTestRun*.json.meta
+# unused source models (not referenced by any scene)
+/Assets/something/
+/Assets/something.meta
+/Assets/Model/Tom_Character.fbx
+/Assets/Model/Tom_Character.fbx.meta

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f9f938d0f5e43947af79e1a55ecb256, type: 3}
+  m_Name: GameArt
+  m_EditorClassIdentifier: Assembly-CSharp::GameArt
+  litBase: {fileID: 2100000, guid: 31e04a66da8a2e043b5a91bf7dc574dc, type: 2}
+  unlitBase: {fileID: 2100000, guid: 639f6f6fa9ee8974b98af68bd104e7fc, type: 2}
+  floors:
+  - {fileID: 2100000, guid: 46df2f42b08930941a33815d9f9e5c0f, type: 2}
+  - {fileID: 2100000, guid: d2ad8e3c10898064fbc526d82e0f4f6a, type: 2}
+  - {fileID: 2100000, guid: 4929ba1ec57794044a5f0d663cc6e809, type: 2}
+  walls:
+  - {fileID: 2100000, guid: 8a5a0c4c3be275c40ac94a7cbac7230d, type: 2}
+  - {fileID: 2100000, guid: 232e663af53f7f547b90940846dfa749, type: 2}
+  - {fileID: 2100000, guid: 85c06134f694b0d46a4d1daf5196c3bc, type: 2}
+  wallsFade:
+  - {fileID: 2100000, guid: ca1f17fe07ec1404f975bcb06f4bfd14, type: 2}
+  - {fileID: 2100000, guid: 18ca48e25cead1845a2cb906efb94e54, type: 2}
+  - {fileID: 2100000, guid: 773df64900741fe499f3ee14dfc12bea, type: 2}
+  wainscots:
+  - {fileID: 2100000, guid: 01a265543c409f744befd72af485b4a2, type: 2}
+  - {fileID: 2100000, guid: 185ca2565cb06c84d93a29f4aeb59d4f, type: 2}
+  - {fileID: 2100000, guid: 8af7caa28de58df44a1c37617b38b3f0, type: 2}
+  trim: {fileID: 2100000, guid: 37e15f80eedf79345a76aa0ead0259dc, type: 2}
+  ceiling: {fileID: 2100000, guid: 3e53abec24d1b7144ba4fd88d97846ba, type: 2}
+  windowSky: {fileID: 2100000, guid: f5476d260b1e35d44a74836b783a42b5, type: 2}
+  holeDark: {fileID: 2100000, guid: a869165c41b25bf4cbd82574978403ce, type: 2}
+  trapWood: {fileID: 2100000, guid: 5b8d488a7f41fee4ba45491114411107, type: 2}
+  metal: {fileID: 2100000, guid: 6dafb4dd7ab8e06429648a9590d50cfc, type: 2}
+  cheese: {fileID: 2100000, guid: 36fc801afce59014db036616d9ab575f, type: 2}
+  glow: {fileID: 2100000, guid: 70d9cf5b5f9be104781f73f8dd8037a2, type: 2}
+  blobShadow: {fileID: 2100000, guid: 53e6e2048702b374f9da9ffd3e9e0809, type: 2}
+  sparkle: {fileID: 2100000, guid: cf9b2be2716bace41a34108ceb54841e, type: 2}
+  confetti: {fileID: 2100000, guid: b82c90c4e6d3dde4a82109386f1b54ae, type: 2}
+  titleFont: {fileID: 12800000, guid: 40ce724498b74e645b0224e5ab57814c, type: 3}
+  uiFont: {fileID: 12800000, guid: dae3158f8fe8a7c448cb78c4fbfd314f, type: 3}
